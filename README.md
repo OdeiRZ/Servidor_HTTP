@@ -11,7 +11,7 @@ exportado a un fichero .log al cerrar el programa.
 
 El servidor atenderá peticiones desde la siguiente url: http://localhost:8066
 
-Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el proyecto 
+Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable .jar con el proyecto 
 construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
