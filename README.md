@@ -2,16 +2,16 @@ Servidor HTTP 0.9
 ================================
 
 Aplicación que implementa un servidor web HTTP desarrollado en Java. El programa nos permite recibir
-y gestionar peticiones controladas mediante el uso de hilos y Sockets, por lo que el software realiza
-funciones multi-hilo de manera concurrente.
+y gestionar peticiones controladas mediante el uso de hilos y Sockets, realizando funciones multi-hilo 
+de manera concurrente.
 
 La aplicación habilita una interfaz gráfica para capturar todos los eventos producidos en el servidor,
-a su vez, cada vez que este procesa una orden, se genera un registro en el mismo que será capturado y
+a su vez, cada vez que éste procesa una orden, se genera un registro en el mismo que será capturado y
 exportado a un fichero .log al cerrar el programa.
 
-El servidor atenderá peticiones desde la siguiente url: http://localhost:8066
+El servidor atenderá peticiones desde la url: http://localhost:8066
 
-Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable .jar con el proyecto 
+Para facilitar la puesta en marcha de la aplicación, se proporciona un ejecutable .jar con el proyecto 
 construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
