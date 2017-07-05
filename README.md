@@ -19,7 +19,7 @@ construido y listo para ser ejecutado de manera gráfica.
 - Navegador Web [Chrome], [Firefox], [Opera], [Microsoft Edge], etc.., para conectarse al servidor
 
 ## Entorno de desarrollo
-La Aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su importanción 
+La aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su importanción 
 en [Eclipe] y demás IDE's.
 
 ## Licencia
